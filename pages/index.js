@@ -36,7 +36,7 @@ export default function Home() {
               </div>
 
               <div className="text-md">
-                I'am <span className="font-bold"> Nack </span>.<br />
+                I am <span className="font-bold"> Nack </span>.<br />
                 Frontend developder - Art designer that live in Chiang Mai.
                 Thailand
               </div>
